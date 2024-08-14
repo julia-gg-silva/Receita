@@ -1,0 +1,86 @@
+@font-face {
+    font-family: 'lonely';
+    src: url('/fonts/Lonely\ Coffee.ttf');
+}
+
+h1{
+    font-family: 'lonely';
+    font-size: 30px;
+    color: rgb(33, 40, 139);
+}
+
+body{
+    background-color:rgb(250, 223, 215);
+    font-family:'Lucida Sans', 'Lucida Sans Regular';
+    font-size: 18px;
+    
+}
+
+*{
+   margin: 0;
+   padding: 0;
+}
+
+header{
+   background-color: rgb(58, 66, 177);
+   padding: 30px;
+   font-family: 'lonely';
+   font-size: 50px;
+   color: rgb(250, 223, 215);
+}
+
+P{
+    font-size: 20px;
+}
+ img{
+    width: 384px;
+    height: 500px;
+    border-radius: 20px;
+    border: 2px rgb(33, 40, 139) solid;
+    margin: 10px;
+    
+ }
+ .cabecario{
+    text-align: center;
+    margin-top: 30px;
+ }
+
+ h2{
+    font-family: 'lonely';
+    font-size: 20px;
+    color: rgb(33, 40, 139);
+ }
+
+
+ .ingredientes{
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    max-width: 800px;
+    margin: 30px
+ }
+
+ .preparo{
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    max-width: 800px;
+    margin: 30px;
+ }
+
+ .montagem{
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    max-width: 800px;
+    margin: 30px;
+ }
+
+ footer{
+   background-color: rgb(58, 66, 177);
+   padding: 30px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular';
+   font-size: 20px;
+   color: rgb(250, 223, 215);
+   margin-top: 30px;
+ }
